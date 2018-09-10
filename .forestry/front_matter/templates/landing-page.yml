@@ -11,13 +11,13 @@ fields:
   config:
     required: true
 - type: text
-  label: Hero Heading
+  label: Cabeçalho
   name: heading
-  default: Belkirk College
+  default: Contraktor
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: Negocie melhor. Rápido. Em equipe.
 - type: file
   name: banner_image
   label: Hero Image
